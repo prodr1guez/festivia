@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827431676494",
+    "project_id": "festivia-app",
+    "storage_bucket": "festivia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827431676494:android:e66b8f3b25c9beab56711f",
+        "android_client_info": {
+          "package_name": "com.niceware.festivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827431676494-3feqhvj2fdgbbdq841t34uneel8f7ibm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niceware.festivia",
+            "certificate_hash": "92af1f1c7ae0952d33e022a43eea8acd3c40d4d4"
+          }
+        },
+        {
+          "client_id": "827431676494-fpg8ca0kdep62qe7kfs1bv60ktonb046.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxM3RMfaB2RH5EH6do9NIFdK5vu4bfwWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827431676494-fpg8ca0kdep62qe7kfs1bv60ktonb046.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
